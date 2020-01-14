@@ -22,17 +22,13 @@
 $ yarn install
 ```
 
-> now install npm and bower packages
-
-```shell
-$ npm install
-```
-
 > then run the dev-server
 
 ```shell
 $ yarn run dev-server
 ```
+
+> pat yourself on the back. you did it!
 
 ---
 
